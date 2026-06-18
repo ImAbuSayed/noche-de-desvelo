@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-desvelo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Noche de desvelo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-desvelo/) |
+| **Get License** | [Get License For Noche de desvelo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-desvelo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, la luna sabe que no duermo por pensarte,
+> En esta noche de desvelo solo quiero devorarte.
+> Tu perfume sigue aquí, no he podido olvidarte,
+> Sube al coche, que esta noche yo paso a buscarte.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
