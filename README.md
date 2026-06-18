@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-desvelo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Noche de desvelo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-desvelo/) |
+| **Get License** | [Music Rights & Licensing for Noche de desvelo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-desvelo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4153fde55d3e1045919add07f739c1f2fbfccb7ee5aef77b04ba9b9f01a23a38` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

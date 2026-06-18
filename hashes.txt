@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de desvelo
+
+This log tracks the cryptographic history and versioning for the song **Noche de desvelo** (noche-de-desvelo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T21:21:12.094436 | `v1` | `4153fde55d3e1045919add07f739c1f2fbfccb7ee5aef77b04ba9b9f01a23a38` | `b5aee335b35a7ef7b7f14aad3cbe56a37ca1ffd401880ddedf5df81f61b51efc` | `2026-06-18_noche-de-desvelo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
